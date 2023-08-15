@@ -1,0 +1,2 @@
+# BlueResBloggerTemplate
+BlueRes Blogger Template
